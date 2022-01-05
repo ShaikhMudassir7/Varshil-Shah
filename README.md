@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshil-shah&label=Profile%20views&color=0e75b6&style=flat" alt="varshil-shah" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshil-shah&title=Commit,Stars,Followers,Repositories,Issues,PullRequest" alt="varshil-shah" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Javascript, Python, C, C++, Java**
 
